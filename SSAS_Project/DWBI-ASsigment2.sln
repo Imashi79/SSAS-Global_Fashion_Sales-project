@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DWBI-ASsigment2", "DWBI-ASsigment2.dwproj", "{BFBEDC18-B8A4-4380-B292-4BF485CC04F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBEDC18-B8A4-4380-B292-4BF485CC04F3}.Development|Default.ActiveCfg = Development
+		{BFBEDC18-B8A4-4380-B292-4BF485CC04F3}.Development|Default.Build.0 = Development
+		{BFBEDC18-B8A4-4380-B292-4BF485CC04F3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
