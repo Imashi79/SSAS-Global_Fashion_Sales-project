@@ -1,0 +1,31 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore SSAS deployment artifacts (optional — keep if you want only source files)
+*.asdatabase
+*.abf
+*.bim
+*.xmla
+
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.log
+
+# Ignore Excel temporary files
+~$*.xlsx
+
+# Ignore Power BI temp files
+~$*.pbix
+
+# Ignore DS_Store (macOS) and Thumbs.db (Windows)
+.DS_Store
+Thumbs.db
