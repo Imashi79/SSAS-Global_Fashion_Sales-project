@@ -40,7 +40,7 @@ SSAS-Global_Fashion_Sales-project/
 
 ## 🏗️ SSAS Cube Implementation
 
-![SSAS Cube Implementation](Doc/Global%20Fashion%20Retail%20Sales%20-DW(dsv).png)
+![SSAS Cube Implementation](Doc/Global Fashion Retail Sales -DW(cube).png)
 
 - **Tool:** SQL Server Data Tools (SSDT)  
 - **Type:** Analysis Services Multidimensional and Data Mining Project
