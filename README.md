@@ -1,4 +1,4 @@
-# Global Fashion Retail Sales SSAS and BI Project
+# SSAS-Global_Fashion_Sales-project
 
 ## Overview
 
